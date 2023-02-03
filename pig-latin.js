@@ -1,5 +1,5 @@
 const inputArray = process.argv;
-const pigLatin = function(string) {
+const pigLatin = function (string) {
   let stringPig = string.slice(1) + string[0] + "ay";
   return stringPig;
 };
