@@ -12,11 +12,11 @@ This project was created and published by me as part of my learnings at Lighthou
 
 **Install it:**
 
-`npm install gps_developer/lotide`
+`npm install @gps_developer/lotide`
 
 **Require it:**
 
-`const _ = require('gps_developer/lotide');`
+`const _ = require('@gps_developer/lotide');`
 
 **Call it:**
 
