@@ -1,3 +1,5 @@
 # lotide
 
-## Module 1 Week 1 and Week 2 Exercises
+## Project for Module 1 emulatind lodash.
+
+### Run npm install to install all dependencies
