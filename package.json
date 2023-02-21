@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@gps_developer/lotide",
   "version": "1.0.0",
-  "description": "## Module 1 Week 1 and Week 2 Exercises",
-  "main": "assertArraysEqual.js",
+  "description": "Module 1 Projectn for Lighthouse labs Web dev bootcamp",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/GurpreetRandhawa/lotide.git"
   },
-  "author": "",
+  "author": "Gurpreet Randhawa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GurpreetRandhawa/lotide/issues"

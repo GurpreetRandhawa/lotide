@@ -1,3 +1,4 @@
+//Function that taked an object and a callback function
 const findKey = (object, callback) => {
   let arr = Object.keys(object);
   for (let i of arr) {

@@ -1,8 +1,8 @@
-const eqArrays = require("./eqArrays");
 const eqObjects = require("./eqObjects");
 
-const assertObjectsEqual = function (object1, object2) {
+const assertObjectsEqual = function(object1, object2) {
   const inspect = require("util").inspect;
+  //Calling eqObjects with the given parameters as objects can not be compared like primitive data types using ===
   if (eqObjects(object1, object2) === true) {
     console.log(
       `✅✅✅Assertion Passed: ${inspect(object1)} === ${inspect(object2)}`
